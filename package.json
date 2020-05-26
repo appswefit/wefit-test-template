@@ -1,5 +1,5 @@
 {
-  "name": "@sices-platform/sices-view",
+  "name": "wefit-cra-template",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
